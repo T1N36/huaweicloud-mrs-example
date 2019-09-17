@@ -1,2 +1,2 @@
 # huaweicloud-mrs-example
-Examples for HUAWEI CLOUD MRS.
+This branch will not use any more, please go to branch mrs-1.8
